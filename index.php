@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>This Website is hosted using AWS Beanstalk</h1>
+<h1>This Website is hosted using OpenShift container</h1>
 
 <?php
-echo "Your Beanstalk application is running succefully";
+echo "Your  application executed succefully";
 ?> 
 
 </body>
